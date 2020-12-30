@@ -1,5 +1,9 @@
+import pandas as pd
+
+
 def main():
-    print("Hello MATF!")
+    df = pd.read_csv('../data/SerbMR-2C.csv')
+    print(df)
 
 
 if __name__ == "__main__":

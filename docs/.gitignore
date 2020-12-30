@@ -277,9 +277,3 @@ TSWLatexianTemp*
 
 # xwatermark package
 *.xwm
-
-# images
-*.jpg
-*.jpeg
-*.png
-*.gif
